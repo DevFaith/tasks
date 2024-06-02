@@ -25,6 +25,7 @@ function App() {
         id: crypto.randomUUID(),
         title: taskTitle,
         isCompleted: false
+        
       }
     ]);
   }
